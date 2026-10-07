@@ -1,0 +1,6 @@
+{
+  "name": "Artbook - Artist Booking & Portfolio Marketplace",
+  "description": "Discover, hire and book verified artists for Mehendi, Rangoli, Bridal Makeup, Hairstyling and more with portfolio showcase, nominal artist verification and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
